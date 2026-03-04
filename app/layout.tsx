@@ -8,8 +8,8 @@ const inter = Inter({ subsets: ['latin'], variable: '--font-inter' })
 export const metadata: Metadata = {
   title: 'Editor de Video | Edicao Criativa com Custo-Beneficio',
   description:
-    'Servico de edicao de video com dedicacao, qualidade e preco acessivel. Transformo suas ideias em conteudo visual impactante.',
-  keywords: ['edicao de video', 'editor de video', 'video editing', 'conteudo digital', 'edicao criativa'],
+    'Serviço de edição de vídeo com dedicação, qualidade e preço acessível. Transformo suas ideias em conteudo visual impactante.',
+  keywords: ['edição de vídeo', 'editor de vídeo', 'vídeo editing', 'conteúdo digital', 'edição criativa'],
 }
 
 export const viewport: Viewport = {

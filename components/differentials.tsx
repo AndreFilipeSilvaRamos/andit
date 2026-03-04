@@ -7,27 +7,27 @@ import { cn } from "@/lib/utils"
 const items = [
   {
     icon: DollarSign,
-    title: "Preco Acessivel",
+    title: "Preço Acessível",
     description:
-      "Servico de qualidade com valor justo. Investir no seu conteudo nao precisa custar caro.",
+      "Serviço de qualidade com valor justo. Investir no seu conteúdo não precisa custar caro.",
   },
   {
     icon: Heart,
     title: "Comprometimento",
     description:
-      "Cada projeto recebe minha total dedicacao. Trabalho ate voce ficar 100% satisfeito.",
+      "Cada projeto recebe minha total dedicação. Trabalho até você ficar 100% satisfeito.",
   },
   {
     icon: Zap,
-    title: "Entrega Rapida",
+    title: "Entrega Rápida",
     description:
       "Respeito prazos e priorizo a agilidade na entrega sem perder qualidade no resultado.",
   },
   {
     icon: Sparkles,
-    title: "Edicao Criativa",
+    title: "Edição Criativa",
     description:
-      "Transicoes modernas, efeitos visuais e trilhas que dao vida ao seu conteudo.",
+      "Transições modernas, efeitos visuais e trilhas que dão vida ao seu conteúdo.",
   },
 ]
 
@@ -45,7 +45,7 @@ export function Differentials() {
             Por que trabalhar comigo?
           </h2>
           <p className="mx-auto max-w-2xl text-pretty text-muted-foreground">
-            Qualidade e compromisso que fazem a diferenca no resultado final do
+            Qualidade e compromisso que fazem a diferença no resultado final do
             seu projeto.
           </p>
         </div>

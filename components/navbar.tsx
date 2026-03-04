@@ -41,7 +41,7 @@ export function Navbar() {
           className="flex items-center gap-2 text-foreground transition-colors duration-300 hover:text-primary"
         >
           <Video className="h-6 w-6 text-primary" />
-          <span className="text-lg font-bold">VideoEdit</span>
+          <span className="text-lg font-bold">AndEdit</span>
         </a>
 
         {/* Desktop Links */}
@@ -63,7 +63,7 @@ export function Navbar() {
           size="sm"
           className="hidden bg-primary text-primary-foreground transition-all duration-300 hover:bg-primary/90 hover:scale-105 md:inline-flex"
         >
-          <a href="#contato">Orcamento</a>
+          <a href="#contato">Orçamento</a>
         </Button>
 
         {/* Mobile Toggle */}
@@ -99,7 +99,7 @@ export function Navbar() {
             className="mt-2 bg-primary text-primary-foreground hover:bg-primary/90"
           >
             <a href="#contato" onClick={() => setIsOpen(false)}>
-              Solicitar Orcamento
+              Solicitar Orçamento
             </a>
           </Button>
         </div>

@@ -24,24 +24,24 @@ export function About() {
               Sobre Mim
             </span>
             <h2 className="mb-6 text-balance text-3xl font-bold text-foreground md:text-4xl">
-              Dedicacao e honestidade em cada projeto
+              Dedicação e honestidade em cada projeto
             </h2>
             <div className="space-y-4 text-muted-foreground">
               <p className="leading-relaxed">
                 Sou um editor de video no inicio da minha jornada profissional.
-                Ainda nao tenho anos de experiencia, mas o que me falta em tempo
-                de mercado, eu compenso com dedicacao, estudo constante e
+                Ainda não tenho anos de experiência, mas o que me falta em tempo
+                de mercado, eu compenso com dedicação, estudo constante e
                 compromisso com cada projeto.
               </p>
               <p className="leading-relaxed">
-                Acredito na transparencia: estou aqui para aprender e evoluir
-                junto com meus clientes. Cada video que edito e uma oportunidade
-                de entregar o meu melhor e construir uma reputacao solida baseada
+                Acredito na transparência: estou aqui para aprender e evoluir
+                junto com meus clientes. Cada vídeo que edito e uma oportunidade
+                de entregar o meu melhor e construir uma reputação sólida baseada
                 em resultados reais.
               </p>
               <p className="leading-relaxed">
-                Meu objetivo e oferecer um servico de qualidade com preco justo,
-                provando que e possivel ter um conteudo visual incrivel sem
+                Meu objetivo e oferecer um serviço de qualidade com preço justo,
+                provando que e possível ter um conteúdo visual incrível sem
                 precisar investir fortunas.
               </p>
             </div>
@@ -65,7 +65,7 @@ export function About() {
                   Foco no Resultado
                 </h3>
                 <p className="text-sm leading-relaxed text-muted-foreground">
-                  Cada edicao e pensada para alcancar o objetivo do seu projeto,
+                  Cada edição e pensada para alcançar o objetivo do seu projeto,
                   seja engajamento, vendas ou reconhecimento.
                 </p>
               </div>
@@ -77,11 +77,11 @@ export function About() {
               </div>
               <div>
                 <h3 className="mb-1 font-semibold text-foreground">
-                  Evolucao Constante
+                  Evolução Constante
                 </h3>
                 <p className="text-sm leading-relaxed text-muted-foreground">
                   Estudo novas tecnicas e tendencias diariamente para entregar
-                  edicoes cada vez melhores.
+                  edições cada vez melhores.
                 </p>
               </div>
             </div>
@@ -95,8 +95,8 @@ export function About() {
                   Parceria Real
                 </h3>
                 <p className="text-sm leading-relaxed text-muted-foreground">
-                  Nao sou apenas um prestador de servico. Quero entender seu
-                  projeto e crescer junto com voce.
+                  Não sou apenas um prestador de serviço. Quero entender seu
+                  projeto e crescer junto com você.
                 </p>
               </div>
             </div>

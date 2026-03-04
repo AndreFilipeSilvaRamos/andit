@@ -7,7 +7,7 @@ export function Footer() {
         <div className="flex items-center gap-2 text-muted-foreground">
           <Video className="h-5 w-5 text-primary" />
           <span className="text-sm font-semibold text-foreground">
-            VideoEdit
+            AndEdit
           </span>
         </div>
         <p className="text-sm text-muted-foreground">
@@ -18,13 +18,13 @@ export function Footer() {
             href="#home"
             className="text-sm text-muted-foreground transition-colors duration-300 hover:text-foreground"
           >
-            Inicio
+            Início
           </a>
           <a
             href="#portfolio"
             className="text-sm text-muted-foreground transition-colors duration-300 hover:text-foreground"
           >
-            Portfolio
+            Portfólio
           </a>
           <a
             href="#contato"

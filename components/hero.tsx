@@ -18,18 +18,18 @@ export function Hero() {
         <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-border bg-secondary/50 px-4 py-2">
           <div className="h-2 w-2 animate-pulse rounded-full bg-primary" />
           <span className="text-sm text-muted-foreground">
-            Disponivel para novos projetos
+            Disponível para novos projetos
           </span>
         </div>
 
         <h1 className="mb-6 text-balance text-4xl font-bold tracking-tight text-foreground md:text-6xl lg:text-7xl">
           Transformo suas ideias em{" "}
-          <span className="text-primary">videos impactantes</span>
+          <span className="text-primary">vídeos impactantes</span>
         </h1>
 
         <p className="mx-auto mb-10 max-w-2xl text-pretty text-lg leading-relaxed text-muted-foreground md:text-xl">
-          Edicao de video com dedicacao, criatividade e o melhor custo-beneficio.
-          Estou comecando minha jornada e quero crescer junto com voce.
+          Edição de vídeo com dedicação, criatividade e o melhor custo-benefício.
+          Estou começando minha jornada e quero crescer junto com você.
         </p>
 
         <div className="flex flex-col items-center justify-center gap-4 sm:flex-row">
@@ -55,7 +55,7 @@ export function Hero() {
               rel="noopener noreferrer"
             >
               <MessageCircle className="h-4 w-4" />
-              Solicitar Orcamento
+              Solicitar Orçamento
             </a>
           </Button>
         </div>

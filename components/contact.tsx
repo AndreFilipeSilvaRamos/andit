@@ -64,7 +64,7 @@ export function Contact() {
           </h2>
           <p className="mx-auto mb-10 max-w-xl text-pretty text-muted-foreground">
             Entre em contato para discutir seu projeto. Responderei o mais
-            rapido possivel com um orcamento personalizado.
+            rápido possível com um orçamento personalizado.
           </p>
 
           {/* WhatsApp CTA */}
@@ -90,7 +90,7 @@ export function Contact() {
               className="inline-flex items-center gap-2 text-muted-foreground transition-colors duration-300 hover:text-primary"
             >
               <Mail className="h-5 w-5" />
-              seuemail@email.com
+              andrefsramosedit@email.com
             </a>
           </div>
 

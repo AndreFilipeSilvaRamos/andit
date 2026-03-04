@@ -33,14 +33,14 @@ export function Portfolio() {
       <div className="mx-auto max-w-6xl">
         <div className="mb-16 text-center">
           <span className="mb-4 inline-block text-sm font-medium uppercase tracking-widest text-primary">
-            Portfolio
+            Portfólio
           </span>
           <h2 className="mb-4 text-balance text-3xl font-bold text-foreground md:text-4xl">
             Meus Trabalhos
           </h2>
           <p className="mx-auto max-w-2xl text-pretty text-muted-foreground">
-            Confira alguns dos projetos que ja realizei. Substitua os videos
-            abaixo pelos seus proprios links do YouTube.
+            Confira alguns dos projetos que ja realizei. Substitua os vídeos
+            abaixo pelos seus próprios links do YouTube.
           </p>
         </div>
 
